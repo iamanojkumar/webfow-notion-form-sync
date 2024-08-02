@@ -1,2 +1,3 @@
-# webfow-notion-form-sync
+# webflow-notion-form-sync
+
 webflow to notion form sync
